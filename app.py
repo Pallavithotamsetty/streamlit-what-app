@@ -1,5 +1,3 @@
-from re import S
-from turtle import filling
 import streamlit as st
 import seaborn as sn
 import preprocessor, helper
